@@ -1,3 +1,8 @@
+---
+layout: page
+title: Grant Proposal Summary
+---
+
 # Bridging AI and Inequalities Research: A Metascience Framework for Methodological Pluralism
 
 ** Note: This is a postdoc-level grant application submitted to the Marie Skłodowska-Curie Actions (MSCA) to seek funding. This proposal was refined based on an older, unsuccessful application submitted to UKRI. Since the Department of Informatics at King's College London believes that this grant proposal has high potential, the Department has supported my application for the MSCA funding following a grant rejection by UKRI. **
